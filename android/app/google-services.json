@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "69862907607",
+    "project_id": "fitlife-d5add",
+    "storage_bucket": "fitlife-d5add.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69862907607:android:dd8c04a4c2d4322bec9a92",
+        "android_client_info": {
+          "package_name": "com.example.fit_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJG-txdX_38rMGk9BYlwkNR2n2tlIEf34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69862907607:android:b426289dc7d72510ec9a92",
+        "android_client_info": {
+          "package_name": "com.example.fitlife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJG-txdX_38rMGk9BYlwkNR2n2tlIEf34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69862907607:android:00de457f96ebd9caec9a92",
+        "android_client_info": {
+          "package_name": "com.lian.fitLife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJG-txdX_38rMGk9BYlwkNR2n2tlIEf34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
